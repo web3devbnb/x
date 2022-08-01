@@ -1,0 +1,356 @@
+@media screen and (max-width:575.5px) {
+    .left-list {
+        margin-bottom: 60px;
+    }
+
+    .right-list {
+        margin-top: 60px;
+    }
+
+    ul.allocation.right-list li {
+        text-align: right;
+    }
+
+    ul.allocation li span {
+        padding: 0px 12px;
+    }
+
+    .video {
+        padding: 40px 15px;
+    }
+
+    #get-status {
+        flex-direction: column;
+    }
+
+    #get-status input {
+        margin-right: 0;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    #get-status button {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:767.5px) {
+    img {
+        max-width: 100%;
+    }
+
+    h3 span:after {
+        width: 300px;
+        background-size: contain;
+        margin: 0px auto;
+        margin-left: -150px;
+    }
+
+    .frame-default {
+        background: none;
+    }
+
+    .b-left-new {
+        padding-top: 0px !important;
+        padding-left: 83px !important;
+        padding-bottom: 3rem !important;
+    }
+
+    .roadmap .border-bottom-dashed {
+        border-bottom: 0px;
+    }
+
+
+    .b-left-new:before {
+        left: 33px;
+        height:270px !important;
+    }
+
+    .allocation-sec .flush {
+        padding:0px 15px;
+    }
+
+    .roadmap .row.row {
+        margin:0px;
+    }
+
+    ul.social li {
+        padding: 5px 5px;
+    } 
+
+    .footer ul.nav-footer li {
+        padding: 10px 10px;
+    }
+
+    ul.allocation.left-list li {
+        text-align:left;
+        
+    }
+
+    .b-left-new:after {
+        top: -12px;
+        left: 20px;
+    }
+
+    .middle-content p {
+        font-size: 22px;
+        line-height: 26px;
+        margin-top:20px;
+    }
+
+    .additional-information p span {
+        display:inline-block;
+        width:100%;
+        margin-bottom: 15px;
+    }
+
+    h2 span {
+        font-size: 50px;
+    }
+
+    .intro-block img {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .mid-wrap {
+        padding-top: 40px;
+    }
+}
+
+@media screen and (min-width:575.5px) and (max-width:767.5px) { 
+    ul.allocation li {
+        font-size:20px;
+    }
+
+    a.btn-default {
+        width: 100%;
+        background-size: contain;
+    }
+
+    .card-body p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .roadmap .b-left {
+        padding-left:20px !important;
+    }
+
+    .pl-5, .px-5 {
+    padding-left:10px !important;
+    }
+
+    .b-left-new:before {
+        left:-5px;
+        height: 195px !important;
+    }
+
+    .pt-10 {
+        padding-left:20px !important;
+    }
+
+    .b-left-new:after {
+        top: 0px;
+        left: -19px;
+    }
+
+    ul.allocation.left-list li {
+        padding:2px 0px !important;
+    }
+
+    ul.allocation li {
+        font-size: 20px;
+    } 
+}
+
+@media screen and (min-width:575.5px) and (max-width:991.5px) {
+    ul.allocation li:after {
+        top: 3px;
+    }
+}
+
+@media screen and (min-width:768.5px) and (max-width:991.5px) {
+    a.btn-default {
+        max-width: 80%;
+        background-size: contain;
+    }  
+
+    img {
+        max-width: 100%;
+        margin-left: 0 !important;
+    }
+
+    ul.allocation li {
+        font-size:20px;
+        padding-top:5px !important;
+        padding-bottom:5px!important;
+    }
+
+    .roadmap .b-left {
+        padding-left: 1rem !important;
+    }
+
+    .allocation-sec .flush {
+        padding:0px 15px;
+    }
+
+    .roadmap .row.row {
+        margin:0px;
+    }
+
+    .bx-wrapper .bx-controls-direction a {
+        display:none;
+    }
+
+    .sm-r-0 {
+        padding-right:0px !important;
+    }
+
+    .roadmap .b-left {
+        padding-left:35px !important; 
+    }
+
+    .sm-l {
+        padding-left:25px !important;
+    }
+}
+
+@media screen and (max-width: 991.5px){
+    .row-eq-height {
+        display:block;
+    }
+
+    .flush-right {
+        padding-right:15px;	
+    }
+
+    .xs-center {
+        text-align:center;
+    }
+
+    .socials {
+        flex-direction: row;
+        justify-content: center !important;
+        max-width: 100% !important;
+    }
+
+    .header:before, .header:after {
+        top: -6px;
+    }
+
+    .header .navbar .navbar-resp-cont {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .header .navbar-nav:not(.socials) {
+        margin-top: 10px;
+        height: auto;
+    }
+
+    .card {
+        margin: 0 auto;
+    }
+
+    .card-text:not(.lst-txt) {
+        margin-bottom: 90px !important;
+    }
+
+    #edge-1 {
+        transform: scale(0.01, 0.0028);
+    }
+    
+    #edge-2 {
+        transform: scale(0.1, 0.1);
+    }
+
+    .roadmap {
+        padding-top: 140px;
+        padding-bottom: 120px;
+    }
+
+    .header:before,.header:after {
+        display:none;
+    }
+
+    .navbar .ml-auto {
+        margin-top: 20px;
+    }
+
+    .main-top > header > .container {
+        padding: 0 15px;
+        width: 100%;
+    }
+
+    br {
+        display:none;
+    }
+
+    .socials {
+        margin-bottom: 20px;
+    }
+
+    .partners {
+        margin-bottom: 100px;
+    }
+}
+
+@media screen and (max-width:1024.5px) {
+    .additional-information .left-img, .additional-information .right-img {
+        display: none;
+    }
+
+    .team {
+        padding: 100px 0;
+    }
+
+    .domain p, .allocation-sec p, .wl p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .footer ul.nav-footer li a {
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 991.5px) and (max-width: 1024.5px) {
+    .header .navbar-nav .nav-link {
+        font-size: 20px;
+    }
+}
+
+
+@media screen and (min-width: 991.5px) and (max-width: 1200.5px) {
+    .header .navbar-nav .nav-link {
+        padding: 10px 11px;
+    }	
+
+    .frame-default img {
+        width:100%;
+    }
+
+    ul.allocation li {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1230.5px) {
+    .bx-wrapper .bx-controls-direction a {
+        display:none;
+    }
+}
+
+@media screen and (min-width: 1140.5px) {
+    .mid-wrap > .container {
+        max-width: 70%;
+    }
+}
+
+@media screen and (min-width: 1600.5px) {
+    .main-top > header > .container {
+        max-width: 70%;
+    }
+}
+

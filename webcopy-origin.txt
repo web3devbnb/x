@@ -1,0 +1,580 @@
+Uri: https://www.immortalgrow.com/
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\index.htm
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/all.min.css
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\all.min.css
+Content Type: text/css
+
+Uri: https://www.immortalgrow.com/binance.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\binance.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.immortalgrow.com/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.immortalgrow.com/c-logo-01.svg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\c-logo-01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.immortalgrow.com/c-logo-02.svg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\c-logo-02.svg
+Content Type: image/svg+xml
+
+Uri: https://www.immortalgrow.com/card-01.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\card-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/card-02.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\card-02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/card-03.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\card-03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/card-04.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\card-04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/card-05.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\card-05.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/card-06.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\card-06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.immortalgrow.com/circle-progress.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\circle-progress.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/css.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\css.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/css2(1).html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\css2(1).html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/css2.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\css2.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/custom.js
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\custom.js
+Content Type: application/javascript
+
+Uri: https://www.immortalgrow.com/domain-1.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\domain-1.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/domain-2.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\domain-2.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/fonts/fa-brands-400.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-brands-400.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/fonts/fa-brands-400d41d.html?
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-brands-400d41d.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-brands-401.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-brands-401.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-brands-402.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-brands-402.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-brands-403.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-brands-403.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-regular-400.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-regular-400.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-regular-400d41d.html?
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-regular-400d41d.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-regular-401.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-regular-401.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-regular-402.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-regular-402.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-regular-403.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-regular-403.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-regular-404.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-regular-404.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-solid-900.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-solid-900.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-solid-900d41d.html?
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-solid-900d41d.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-solid-901.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-solid-901.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-solid-902.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-solid-902.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-solid-903.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-solid-903.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/fonts/fa-solid-904.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\fonts\fa-solid-904.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/footer-line.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\footer-line.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/gate.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\gate.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/bg-1.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/img/bottom-head.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\bottom-head.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/btn1.svg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\btn1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.immortalgrow.com/img/btn2.svg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\btn2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.immortalgrow.com/img/card-line.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\card-line.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/controls.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\controls.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/img/domains-edge.svg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\domains-edge.svg
+Content Type: image/svg+xml
+
+Uri: https://www.immortalgrow.com/img/down-arrow.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\down-arrow.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/frame-bg.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\frame-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/img/frame-line.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\frame-line.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/icon-4.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\icon-4.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/img-6.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/img/left-arrow.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\left-arrow.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/left-head.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\left-head.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/line1.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\line1.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/line2.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\line2.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/line3.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\line3.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/line4.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\line4.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/right-arrow.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\right-arrow.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/right-head.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\right-head.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/road-bg.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\road-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/img/soc-back.svg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\soc-back.svg
+Content Type: image/svg+xml
+
+Uri: https://www.immortalgrow.com/img/stars.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\stars.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/team-frame.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\team-frame.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/top-head.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\top-head.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/img/video-edge.svg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\img\video-edge.svg
+Content Type: image/svg+xml
+
+Uri: https://www.immortalgrow.com/index.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\index.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/jquery.bxslider-drag.js
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\jquery.bxslider-drag.js
+Content Type: application/javascript
+
+Uri: https://www.immortalgrow.com/jquery.bxslider.css
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\jquery.bxslider.css
+Content Type: text/css
+
+Uri: https://www.immortalgrow.com/jquery.bxslider.js
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\jquery.bxslider.js
+Content Type: application/javascript
+
+Uri: https://www.immortalgrow.com/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.immortalgrow.com/left-img.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\left-img.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/logo-sm.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\logo-sm.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/logo.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\logo.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/play.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\play.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/responsive.css
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\responsive.css
+Content Type: text/css
+
+Uri: https://www.immortalgrow.com/right-img.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\right-img.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/slick-1.8.1/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\slick-1.8.1\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.immortalgrow.com/slick-1.8.1/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\slick-1.8.1\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.immortalgrow.com/slick-1.8.1/slick/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\slick-1.8.1\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.immortalgrow.com/slick-1.8.1/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\slick-1.8.1\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://www.immortalgrow.com/slick-1.8.1/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\slick-1.8.1\slick\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://www.immortalgrow.com/slick-1.8.1/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\slick-1.8.1\slick\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/slick-1.8.1/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\slick-1.8.1\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://www.immortalgrow.com/slick-1.8.1/slick/slick.css
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\slick-1.8.1\slick\slick.css
+Content Type: text/css
+
+Uri: https://www.immortalgrow.com/slick-1.8.1/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\slick-1.8.1\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.immortalgrow.com/style.css
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\style.css
+Content Type: text/css
+
+Uri: https://www.immortalgrow.com/swap/%25REACT_APP_NODE_1%25.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\%REACT_APP_NODE_1%.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/swap/%25REACT_APP_NODE_2%25.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\%REACT_APP_NODE_2%.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/swap/%25REACT_APP_NODE_3%25.html
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\%REACT_APP_NODE_3%.html
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/swap/css2.css?family=Kanit:wght@400;600&display=swap
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\css2.css
+Content Type: text/css
+
+Uri: https://www.immortalgrow.com/swap/favicon.png
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\favicon.png
+Content Type: image/png
+
+Uri: https://www.immortalgrow.com/swap/index.htm
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\index.htm
+Content Type: text/html
+
+Uri: https://www.immortalgrow.com/swap/manifest.json
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\manifest.json
+Content Type: application/json
+
+Uri: https://www.immortalgrow.com/swap/s/kanit/v7/nKKU-Go6G5tXcr5KPyWg.ttf
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\s\kanit\v7\nKKU-Go6G5tXcr5KPyWg.ttf
+Content Type: font/ttf
+
+Uri: https://www.immortalgrow.com/swap/s/kanit/v7/nKKZ-Go6G5tXcoaS.ttf
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\s\kanit\v7\nKKZ-Go6G5tXcoaS.ttf
+Content Type: font/ttf
+
+Uri: https://www.immortalgrow.com/swap/static/css/3.83e03661.chunk.css
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\css\3.83e03661.chunk.css
+Content Type: text/css
+
+Uri: https://www.immortalgrow.com/swap/static/js/3.5563b0fa.chunk.js
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\js\3.5563b0fa.chunk.js
+Content Type: application/javascript
+
+Uri: https://www.immortalgrow.com/swap/static/js/main.5324d5fd.chunk.js
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\js\main.5324d5fd.chunk.js
+Content Type: application/javascript
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Black.e258f998.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Black.e258f998.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Black.ef2d12b9.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Black.ef2d12b9.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-BlackItalic.70d2cf35.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-BlackItalic.70d2cf35.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-BlackItalic.a1ea21b0.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-BlackItalic.a1ea21b0.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Bold.1c3dfbb0.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Bold.1c3dfbb0.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Bold.a808c21a.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Bold.a808c21a.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-BoldItalic.32e2b20f.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-BoldItalic.32e2b20f.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-BoldItalic.97443965.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-BoldItalic.97443965.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-ExtraBold.1ca2a2cf.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-ExtraBold.1ca2a2cf.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-ExtraBold.30c3d891.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-ExtraBold.30c3d891.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-ExtraBoldItalic.a0a103e5.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-ExtraBoldItalic.a0a103e5.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-ExtraBoldItalic.cd668286.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-ExtraBoldItalic.cd668286.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-ExtraLight.21843ac6.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-ExtraLight.21843ac6.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-ExtraLight.7b7bd05c.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-ExtraLight.7b7bd05c.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-ExtraLightItalic.04abe79a.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-ExtraLightItalic.04abe79a.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-ExtraLightItalic.a7a00555.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-ExtraLightItalic.a7a00555.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Italic.635afeed.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Italic.635afeed.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Italic.e2f52803.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Italic.e2f52803.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-italic.var.b27297c1.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-italic.var.b27297c1.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Light.51f4d175.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Light.51f4d175.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Light.c08cfeeb.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Light.c08cfeeb.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-LightItalic.203b9b31.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-LightItalic.203b9b31.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-LightItalic.8942ebe8.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-LightItalic.8942ebe8.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Medium.ba68c34a.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Medium.ba68c34a.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Medium.f5549f68.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Medium.f5549f68.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-MediumItalic.2812ec5a.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-MediumItalic.2812ec5a.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-MediumItalic.d29ef50a.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-MediumItalic.d29ef50a.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Regular.6cc68d6b.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Regular.6cc68d6b.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Regular.8398b376.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Regular.8398b376.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-roman.var.b65534c5.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-roman.var.b65534c5.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-SemiBold.25b1ffc9.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-SemiBold.25b1ffc9.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-SemiBold.625474d6.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-SemiBold.625474d6.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-SemiBoldItalic.80d799be.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-SemiBoldItalic.80d799be.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-SemiBoldItalic.c632fb96.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-SemiBoldItalic.c632fb96.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Thin.de9194d1.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Thin.de9194d1.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-Thin.fcc91246.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-Thin.fcc91246.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-ThinItalic.6b5565d7.woff
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-ThinItalic.6b5565d7.woff
+Content Type: font/woff
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter-ThinItalic.ec0fcc99.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter-ThinItalic.ec0fcc99.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/swap/static/media/Inter.var.9df5db38.woff2
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\swap\static\media\Inter.var.9df5db38.woff2
+Content Type: font/woff2
+
+Uri: https://www.immortalgrow.com/team-1.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/team-2.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/team-3.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/team-4.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/team-5.jpg
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.immortalgrow.com/video/trailer.mp4
+File Name: C:\Downloaded Web Sites\www.immortalgrow.com\video\trailer.mp4
+Content Type: video/mp4
+
